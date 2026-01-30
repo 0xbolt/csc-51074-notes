@@ -144,8 +144,18 @@ My personal notes for CSC-51074: Digital Representations and Analysis of Shapes 
     - DeepSDF
     - NeRF
 
+## Books
+- [Polygon Mesh Processing](https://www.pmp-book.org)
+- Differential Geometry of Curves and Surfaces
+- [Geometric Deep Learning](https://geometricdeeplearning.com)
+
 ## Other Courses
 - [CSC-2520: Geometry Processing (University of Toronto)](https://github.com/alecjacobson/geometry-processing-csc2520)
 - [Discrete Differential Geometry (Keenan Crane)](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/), [Website](https://brickisland.net/ddg-web), [Notes](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf), [Lectures](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS), [Exercises](https://github.com/GeometryCollective/ddg-exercises)
+
+## Libraries
+- libigl
+- CGAL
+- Polyscope
 
 ## Miscellaneous
